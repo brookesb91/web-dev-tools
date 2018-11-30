@@ -1,10 +1,12 @@
-# Debugging
+# Web Dev Tools
+
+## Debugging
 
 [Augury](https://augury.rangle.io/) - Debugging Angular 2+ apps in the browser
 
 [Lighthouse](https://web.dev) - Google audit reporting
 
-# Design Tools
+## Design Tools
 
 [ColorSpace](https://mycolor.space/) - Generating gradient backgrounds
 
