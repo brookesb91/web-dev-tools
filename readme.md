@@ -13,3 +13,7 @@
 [ColorSafe](http://colorsafe.co/) - Determining safe and accessible web colours
 
 [CanIUse](https://caniuse.com) - Browser compatibility information
+
+## Misc
+
+[Manifest Generator](https://tomitm.github.io/appmanifest/) - Generate manifest.json
